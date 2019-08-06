@@ -82,7 +82,8 @@ def adding_matz
         :dennis_ritchie => {
           :known_for => "Unix",
           :languages => ["C"]
-        }
+        },
+        :yukihiro_matsumoto => {}
      }
 
     programmer_hash[:yukihiro_matsumoto] = {}
